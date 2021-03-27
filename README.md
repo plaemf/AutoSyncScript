@@ -21,9 +21,6 @@
 1、修复了 chavyleung 脚本库无法正确拉取的bug ，可以重新fork本项目获取更新，可以到chavyleung.yml中复制代码修改到您的仓库
 
 ```
-
-^_^
-
 ### AutoSyncScript项目介绍
 ```
 此项目用于定时拉取github上各作者的脚本备份。
